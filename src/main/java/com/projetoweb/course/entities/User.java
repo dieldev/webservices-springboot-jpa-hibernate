@@ -1,4 +1,4 @@
-package com.projetoweb.course;
+package com.projetoweb.course.entities;
 
 import java.io.Serializable;
 
